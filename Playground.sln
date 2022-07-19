@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "Playground\Playground.csproj", "{C9850C1F-E137-41E9-8AC8-39B0083BB75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9850C1F-E137-41E9-8AC8-39B0083BB75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9850C1F-E137-41E9-8AC8-39B0083BB75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9850C1F-E137-41E9-8AC8-39B0083BB75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9850C1F-E137-41E9-8AC8-39B0083BB75D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
